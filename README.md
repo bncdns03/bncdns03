@@ -1,4 +1,7 @@
-<div align="center"![Header](https://raw.githubusercontent.com/bncdns03/bncdns03/master/header.jpg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/bncdns03/bncdns03/master/header.jpg" />
+</div>
+
 - 👋 Hi, I’m @bncdns03
 - 👀 I’m interested in playing video games and sports
 - 🌱 I’m currently learning c++, python, and html
