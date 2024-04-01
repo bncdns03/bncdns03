@@ -5,7 +5,9 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![Header](./header.jpg)
+![Header](https://raw.githubusercontent.com/bncdns03/bncdns03/master/header.jpg)
+
+
 <!---
 bncdns03/bncdns03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
