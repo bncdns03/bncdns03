@@ -1,3 +1,4 @@
+![Header](https://raw.githubusercontent.com/bncdns03/bncdns03/master/header.jpg)
 - 👋 Hi, I’m @bncdns03
 - 👀 I’m interested in playing video games and sports
 - 🌱 I’m currently learning c++, python, and html
@@ -5,7 +6,7 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![Header](https://raw.githubusercontent.com/bncdns03/bncdns03/master/header.jpg)
+
 
 
 <!---
